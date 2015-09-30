@@ -7,9 +7,6 @@ with open(file_from) as f:
     for line in f:
         listOfLines.append(line)
 
-print header
-
-
 setOfLines = set(listOfLines)   # converts to a set which deletes duplicates
 
 myList = sorted(setOfLines)     # sort
