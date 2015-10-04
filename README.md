@@ -1,14 +1,13 @@
 # LogisimLogOrganizer
 Organizes the log output for Logisim for CSCI 3130 at MTSU.
 
-I have supplied a C++ version that implements a List from the STL. 
-Feel free to use this for Mac/*NIX.
+I originaly created a C++/Python 2.7 code to organize Log Files from Logisim, but now have created a Python program that is here to help in more than one area with CSCI 3130 and its labs.
 
-Since I'm a Mac user, I'm not 100% sure how easy it is to compile and run C++ on Windows so.....
+I have currently added a binary, decimal, and hex converter.
 
-I rewrote this in Python 2.7 and added it here as well. Be sure to have Python 2.7 installed on your Windows computer before
-use or else it won't work. Python 2.7 ships with Mac and Linux. 
+Please download the 3130Tool.py to use. 
+I will leave the original LogOrganizer tool up just because, but know that the new 3130Tool.py does include it in there as option 1. 
 
-Also, this is completely open source. Feel free to fork it, update it, add features, etc. 
+Feel free to create an updated version if you'd like. Definitely open source and would love input from the class.
 
 Please email me at jmp9c@mtmail.mtsu.edu if there is any problems with the code. 
